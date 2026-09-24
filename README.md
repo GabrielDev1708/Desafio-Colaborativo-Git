@@ -6,7 +6,7 @@ Este guia lista os erros mais comuns ao tentar baixar aplicativos e suas soluç�
 ### 📑 Principais Erros na Play Store
 * **Erro "Download Pendente":** Para resolver, vá em Configurações > Aplicativos > Google Play Store > Armazenamento e clique em "Limpar Cache" e "Limpar Dados".
 
-### 📑 solução para erro de Espaço Insuficiente
+## Solução para erro de Espaço Insuficiente
 
 * **Erro "Espaço Insuficiente" no Dispositivo:** Ocorre quando o sistema ou a loja de aplicativos não possui memória de armazenamento livre suficiente para instalar uma nova aplicação ou atualizar as existentes.
 
