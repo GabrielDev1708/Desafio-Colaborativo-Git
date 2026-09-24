@@ -4,7 +4,7 @@
 Este guia lista os erros mais comuns ao tentar baixar aplicativos e suas soluções práticas.
 
 ### 📑 Principais Erros na Play Store
-<!-- Os integrantes 2 e 3 vão colocar os erros exatamente na linha 8 -->
+* **Erro "Download Pendente":** Para resolver, vá em Configurações > Aplicativos > Google Play Store > Armazenamento e clique em "Limpar Cache" e "Limpar Dados".
 
 ### 📑 Dicas Extras de Manutenção
 <!-- O integrante 4 vai adicionar dicas aqui no final -->
