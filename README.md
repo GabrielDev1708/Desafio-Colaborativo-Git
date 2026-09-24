@@ -19,5 +19,7 @@ Este guia lista os erros mais comuns ao tentar baixar aplicativos e suas soluç�
 1. **Desinstalar apps não usados automaticamente:** Vá em Ajustes > Geral > Armazenamento do iPhone e ative a opção "Desinstalar Apps Não Usados" (isso mantém os seus dados salvos).
 2. **Limpar dados de navegação:** Vá em Ajustes > Safari e clique em "Limpar Histórico e Dados dos Sites".
 
+
 ### 📑 Dicas Extras de Manutenção
 <!-- O integrante 4 vai adicionar dicas aqui no final -->
+
